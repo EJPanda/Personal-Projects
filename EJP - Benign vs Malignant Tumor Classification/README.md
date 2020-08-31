@@ -17,4 +17,5 @@ In this project, I aim to investigate whether a benign or malignant tumor can be
 Additionally, we also aim to identify which features have the most weight in determining/predicting that a tumor is beign or malignant. We attempt to do this by using some well-known simple classification techniques in the field of machine learning.
 
 Click on file named BenignvsMalignantTumorClassification.ipynb to see project.
+
 Eric J. Puttock - 2020.8.31
