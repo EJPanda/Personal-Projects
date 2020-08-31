@@ -12,7 +12,7 @@ Let's make a positive change in the world!
 
 Project List:
 
-Benign vs Malignant Tumor Classification (Last Updated: 08/31/2020)
+[Benign vs Malignant Tumor Classification](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Benign%20vs%20Malignant%20Tumor%20Classification/EricJPuttock_BenignvsMalignantTumorClassification.ipynb) (Last Updated: 08/31/2020)
 - Primary Objective: Can we correctly diagnose a breast cancer tumor as benign or malignant with high accuracy given a set of morphological features?
 - Uses the UCI Machine Learning Repository: University of Wisconsin Breast Tumor Diagnosis dataset.
     
