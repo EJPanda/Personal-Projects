@@ -1,5 +1,6 @@
 # Personal-Projects
 My Personal Data Science Projects
+
 Written by: Eric J. Puttock
 
 This repository is for my personal projects that I do for fun to practice my skills as a Data Scientist.
