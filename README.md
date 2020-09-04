@@ -36,7 +36,7 @@ Current Project List:
 
 [Neural Machine Translation of Languages](https://github.com/EJPanda/Personal-Projects/tree/master/EJP%20-%20Neural%20Machine%20Translation%20of%20Languages): (Last Updated: 2020.9.04)
 - Proof of concept deep learning models translating the English language into the French language.
-- Uses data provided from DataCamp learning course, "Machine Translation in Python" (https://learn.datacamp.com/courses/machine-translation-in-python).
+- Uses data provided from DataCamp learning course, ["Machine Translation in Python"](https://learn.datacamp.com/courses/machine-translation-in-python).
 
 [Parks & Recreation AI](https://github.com/EJPanda/Personal-Projects/tree/master/EJP%20-%20Parks%20%26%20Recreation%20AI): (Last Updated: 2020.9.04)
 - An attempt to create an artificial Leslie Knope (and other characters) using recurrent neural networks (RNNs).
@@ -50,4 +50,4 @@ Cat vs Dog Image Classification:
 
 Spam vs Ham Email Classification:
 - Identify e-mails as spam or ham using Random Forest & Gradient Boosting classification techniques.
-- Utilizing data provided from LinkedIn learning course, "NLP with Python for Machine Learning Essential Training".
+- Utilizing data provided from LinkedIn learning course, ["NLP with Python for Machine Learning Essential Training"](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training).
