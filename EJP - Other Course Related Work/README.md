@@ -1,4 +1,4 @@
-# EJP - Other Course Related Work
+# EJP - Other Related Work
 
 A folder to hold additional work I've done over the years.
 
