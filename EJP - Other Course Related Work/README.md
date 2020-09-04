@@ -1,4 +1,4 @@
-# EJP - Other Related Work
+# EJP - Other Personal Work
 
 A folder to hold additional work I've done over the years.
 
