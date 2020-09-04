@@ -16,7 +16,7 @@ Let's make a positive change in the world!
 - Collection of panda Word Clouds generated using words and data from my projects.
 
 
-Current Project List:
+Current Project List: (Links and Files are still being updated.)
 
 [Battle of the Neighborhoods with KMeans](InsertLinkHere): (Last Updated: 2020.8.17)
 - IBM Capstone Project for my IBMs Data Science Specialization course on Coursera.
