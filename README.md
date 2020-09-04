@@ -32,7 +32,7 @@ Current Project List:
 [Binary Sentiment Analysis Classification](https://github.com/EJPanda/Personal-Projects/tree/master/EJP%20-%20Binary%20Sentiment%20Analysis%20Classification): (Last Updated: 2020.9.04)
 - Determine whether a movie review is positive or negative using recurrent neural networks (RNNs).
 - Uses IMDB movie reviews for Sentiment Analysis provided by Andrew Maas on his Stanford [website](https://ai.stanford.edu/~amaas/data/sentiment/index.html).
-- Uses [GloVe](https://nlp.stanford.edu/projects/glove/).
+- Uses [GloVe](https://nlp.stanford.edu/projects/glove/) for transfer learning of weights.
 
 [Neural Machine Translation of Languages](https://github.com/EJPanda/Personal-Projects/tree/master/EJP%20-%20Neural%20Machine%20Translation%20of%20Languages): (Last Updated: 2020.9.04)
 - Proof of concept deep learning models translating the English language into the French language.
