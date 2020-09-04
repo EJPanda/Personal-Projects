@@ -11,4 +11,4 @@ Project Status: On-going. Working on NMT using RNN to translate English into Fre
 - Uses IMDB movie reviews for Sentiment Analysis provided by Andrew Maas on his Stanford [website](https://ai.stanford.edu/~amaas/data/sentiment/index.html).
 - Uses [GloVe](https://nlp.stanford.edu/projects/glove/).
 
-Notebook: [FileName](InsertLinkHere)
+Notebook: [Sentiment_Binary.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Binary%20Sentiment%20Analysis%20Classification/Sentiment_Binary.ipynb)
