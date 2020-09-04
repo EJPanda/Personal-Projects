@@ -3,7 +3,7 @@ My Personal Data Science Projects
 
 Written by: Eric J. Puttock
 
-Updated: 2020.9.04
+Updated: 2020.9.04 (Links and Files are still being updated.)
 
 This repository is for my personal projects that I do for fun to practice my skills as a Data Scientist.
 
@@ -16,7 +16,7 @@ Let's make a positive change in the world!
 - Collection of panda Word Clouds generated using words and data from my projects.
 
 
-Current Project List: (Links and Files are still being updated.)
+Current Project List:
 
 [Battle of the Neighborhoods with KMeans](InsertLinkHere): (Last Updated: 2020.8.17)
 - IBM Capstone Project for my IBMs Data Science Specialization course on Coursera.
