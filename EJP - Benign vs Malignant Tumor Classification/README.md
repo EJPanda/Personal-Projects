@@ -18,4 +18,4 @@ Additionally, we also aim to identify which features have the most weight in det
 
 - Uses [University of Wisconsin Breast Tumor (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
 
-Notebook: [BenignvsMalignantTumorClassification.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Benign%20vs%20Malignant%20Tumor%20Classification/EricJPuttock_BenignvsMalignantTumorClassification.ipynb)
+Notebook: [BenignvsMalignantTumorClassification.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Benign%20vs%20Malignant%20Tumor%20Classification/BenignvsMalignantTumorClassification.ipynb)
