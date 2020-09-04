@@ -2,7 +2,7 @@ Benign vs Malignant Tumor Classification
 
 Written by: Eric J. Puttock
 
-Last Updated: 08/31/2020
+Last Updated: 2020.8.31
 
 Introduction: Machine Learning & Need for Diagnostic Tools
 
@@ -16,6 +16,6 @@ In this project, I aim to investigate whether a benign or malignant tumor can be
 
 Additionally, we also aim to identify which features have the most weight in determining/predicting that a tumor is beign or malignant. We attempt to do this by using some well-known simple classification techniques in the field of machine learning.
 
-Click on file named [BenignvsMalignantTumorClassification.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Benign%20vs%20Malignant%20Tumor%20Classification/EricJPuttock_BenignvsMalignantTumorClassification.ipynb) to see project.
+- Uses [University of Wisconsin Breast Tumor (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
 
-Eric J. Puttock - 2020.8.31
+Notebook: [BenignvsMalignantTumorClassification.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Benign%20vs%20Malignant%20Tumor%20Classification/EricJPuttock_BenignvsMalignantTumorClassification.ipynb)
