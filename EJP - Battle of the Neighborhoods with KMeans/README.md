@@ -17,5 +17,5 @@ Introduction:
 
 In the changing world today, we are always interested in venues around us. People are often curious to the kinds of restaurants, shops, or entertainment venues exist in their area to spend time with friends and family. This project aims to identify the most common venues of each city within Los Angeles County and to determine whether certain cities can provide similar experiences. The project will also attempt to determine whether more population of a city show differences or similarities among different cities. The audience for this project is primarily for people who are planning to live within Los Angeles County, or for beginner data scientists interested in getting started.
 
-Notebook: [Capstone Project - The Battle of Neighborhoods - Public.ipynb](InsertLink)
-Writeup: [Capstone Project - The Battle of Neighborhoods - Public.pdf](InsertLink)
+- Notebook: [Capstone Project - The Battle of Neighborhoods - Public.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Battle%20of%20the%20Neighborhoods%20with%20KMeans/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20-%20Public.ipynb)
+- Writeup: [Capstone Project - The Battle of Neighborhoods - Public.pdf](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Battle%20of%20the%20Neighborhoods%20with%20KMeans/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods%20-%20Public.pdf)

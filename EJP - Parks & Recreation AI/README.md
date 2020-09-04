@@ -10,4 +10,4 @@ Project Status: On-going.
 - An attempt to create an artificial Leslie Knope (and other characters) using recurrent neural networks (RNNs).
 - Uses transcripts from the television show Parks and Recreation (https://www.kaggle.com/heheheluke/parks-and-recreation-scripts).
 
-Notebook: [FileName](InsertLinkHere)
+Notebook: [Parks & Recreation AI.ipynb](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Parks%20%26%20Recreation%20AI/Parks%20%26%20Recreation%20AI.ipynb)

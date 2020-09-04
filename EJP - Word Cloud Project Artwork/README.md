@@ -12,5 +12,6 @@ Why pandas? Pandas are adorable creatures! Of course, there's a pandas library t
 Maybe in the future I can generate a calendar from these images for fun.
 
 Word Clouds:
-- [EJP - Parks & Recreation AI](InsertLinkHere)
+- [EJP - Parks & Recreation AI](https://github.com/EJPanda/Personal-Projects/blob/master/EJP%20-%20Word%20Cloud%20Project%20Artwork/EJP%20-%20Parks%20%26%20Recreation%20AI.png)
     - Created using lines of Leslie Knope from the television show Parks and Recreation.
+    - See project folder [here](https://github.com/EJPanda/Personal-Projects/tree/master/EJP%20-%20Parks%20%26%20Recreation%20AI).
